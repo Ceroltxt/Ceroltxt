@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Olá👋! Você pode me chamar de Carol, sou uma estudante de TI da Etec!</h2>
+<h2 align="left"> Você pode me chamar de Carol, sou uma estudante de TI da Etec!</h2>
 
 ###
 
@@ -43,10 +43,3 @@ Here are some ideas to get you started:
 <div align="left">
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ceroltxt/Ceroltxt/output/snake.svg" alt="Snake animation" />
-
-###
